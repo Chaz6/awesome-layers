@@ -132,7 +132,7 @@
 | Name | ARN / Link | Compatible Runtimes | Latest Version |
 |------|------------|---------------------|----------------|
 | [AWSLambdaPowertoolsTypeScript](https://docs.powertools.aws.dev/lambda/typescript/latest/) | ARN: [arn:aws:lambda:{region}:094274105915:layer:AWSLambdaPowertoolsTypeScript:18] | | see documentation |
-| [AWSLambdaPowertoolsPythonV2](https://docs.powertools.aws.dev/lambda/python/latest/) | ARN: [arn:aws:lambda:{region}:017000801446:layer:AWSLambdaPowertoolsPythonV2:42] | | see documentation |
+| [AWSLambdaPowertoolsPythonV2](https://docs.powertools.aws.dev/lambda/python/latest/) | ARN: [arn:aws:lambda:{region}:017000801446:layer:AWSLambdaPowertoolsPythonV2:69] | | see documentation |
 | [AWS-Parameters-and-Secrets-Lambda-Extension](https://docs.aws.amazon.com/pt_br/systems-manager/latest/userguide/ps-integration-lambda-extensions.html) | ARN: [arn:aws:lambda:{region}:590474943231:layer:AWS-Parameters-and-Secrets-Lambda-Extension:10] | | see documentation |
 
 
